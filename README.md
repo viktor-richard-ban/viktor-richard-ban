@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my personal finance application](https://github.com/viktor-richard-ban/myfinance)
 
-- 🌱 I’m currently learning **data structures and algorithms**
+- 🌱 I’m currently learning [data structures and algorithms](https://github.com/viktor-richard-ban/Data-Structures-and-Algorithms)
 
 - 💬 Ask me about **iOS, swift**
 
