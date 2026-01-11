@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viktor</h1>
 <h3 align="center">A passionate iOS developer from Hungary</h3>
 
-- 🔭 I’m currently working on a telemetry-based aerodynamic yaw analysis tool  [group chat iOS application](https://github.com/viktor-richard-ban/yawlab)
+- 🔭 I’m currently working on a [telemetry-based aerodynamic yaw analysis tool](https://github.com/viktor-richard-ban/yawlab)
 
 - 🌱 I’m currently learning [data structures and algorithms](https://github.com/viktor-richard-ban/Data-Structures-and-Algorithms)
 
